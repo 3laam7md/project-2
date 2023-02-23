@@ -426,7 +426,7 @@ ul {
 }
 
 .sprite-img {
-    background-image: url(images/service-icon.png);
+    background-image: url(/images/service-icon.png);
     background-repeat: no-repeat;
     height: 70px;
 }
